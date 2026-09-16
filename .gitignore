@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+/dist/
+/此刻/
+/此刻.html
+/*.zip
+/验证记录.md
+.env
+.env.*
+!.env.example
